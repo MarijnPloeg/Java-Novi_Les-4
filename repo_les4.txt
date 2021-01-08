@@ -1,0 +1,5 @@
+repo' s:
+
+https://github.com/hogeschoolnovi/java-scope
+https://github.com/hogeschoolnovi/java-access-modifier
+https://github.com/hogeschoolnovi/java-keywords-static-overloading

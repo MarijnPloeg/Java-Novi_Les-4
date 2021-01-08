@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/004a - Scope/004a - Scope.iml" filepath="$PROJECT_DIR$/004a - Scope/004a - Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004b - Access_modifiers/004b - Access_modifiers.iml" filepath="$PROJECT_DIR$/004b - Access_modifiers/004b - Access_modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004c - Keywords_and_static_and_overloading/004c - Keywords_and_static_and_overloading.iml" filepath="$PROJECT_DIR$/004c - Keywords_and_static_and_overloading/004c - Keywords_and_static_and_overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Opdrachten.iml" filepath="$PROJECT_DIR$/.idea/Opdrachten.iml" />
+    </modules>
+  </component>
+</project>
